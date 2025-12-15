@@ -68,7 +68,7 @@ Fully responsive layout for different screen sizes
 
 🚀 Live Demo
 
-🔗 Live Website: https://NeoDevs01.github.io/OIPSIB/
+🔗 Live Website:(https://neodevs01.github.io/OIBSIP/)
 
 📚 Learnings
 
